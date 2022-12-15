@@ -11,4 +11,4 @@ redirect_from:
 Bienvenue dans mon site personnel.
 Je suis enseignant à <https://unc.nc>.
 
-Voici mon premier [poly de chimie](../files/Cours_1_Réaction_chimique_AA.pdf)
+Voici mon [poly de chimie](../files/Cours_1_Réaction_chimique_AA.pdf)
