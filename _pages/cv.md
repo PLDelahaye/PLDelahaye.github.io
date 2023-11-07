@@ -18,8 +18,14 @@ redirect_from:
 - PRAG UNC, 2021-2024
 - Lycée machin
 
-## Enseignements
+## Enseignements de physique
 
   <ul>{% for post in site.physique %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+## Enseignements de chimie
+
+  <ul>{% for post in site.chimie %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
