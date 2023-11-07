@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "+ Pages professionnelles +"
+title: "Pages professionnelles"
 excerpt: "A propos de moi"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
