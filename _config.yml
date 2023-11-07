@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Site personnel de Pascal-Laurent DELAHAYE"
+title                    : "Site professionnel"
 title_separator          : "-"
 name                     : &name "Pascal-Laurent DELAHAYE"
 description              : &description "Enseignant de physique-chimie"
@@ -62,11 +62,11 @@ analytics:
 # Site Author
 author:
   name             : "Pascal-Laurent DELAHAYE"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PRAG PC"
-  location         : "Nouméa"
-  employer         :
-  email            :
+  location         : "Nouméa, NC"
+  employer         : "UNC"
+  email            : "laurent-pascal.delahaye@unc.nc"
   github           : "PLDelahaye"
  
 
