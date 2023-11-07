@@ -12,8 +12,7 @@ location: "Nouméa, NC"
 
 ## Objectifs
 
-- Savoir repérer un point matériel dans l’espace. Résoudre des problèmes complexes de mécanique du point.
-- Introduire les notions d’électrostatique et magnétostatique.
+- E=MC2
 
 ## Descriptif
 
