@@ -4,7 +4,7 @@ collection: physique
 type: "Cours de L1"
 permalink: /physique/2023-physique-generale-1
 venue: "UNC, Département de sciences et techniques"
-date: 2023
+date: 2023-01-01
 location: "Nouméa, NC"
 ---
 
