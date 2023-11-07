@@ -146,10 +146,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _teaching -> physique
   - scope:
       path: ""
-      type: teaching
+      type: physique
     values:
       layout: single
       author_profile: true
